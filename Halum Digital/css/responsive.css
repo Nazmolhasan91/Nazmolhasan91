@@ -1,0 +1,182 @@
+@media screen and (max-width: 990px) {
+    .nav-link {
+        color: #ffffffc0;
+        -webkit-color: #ffffffc0;
+    }
+    .contactBtn {
+        color: #fff;
+        -webkit-color: #fff;
+    }
+}
+
+@media screen and (max-width: 985px) {
+    .contact {
+        margin-left: 0.8125rem;
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .bannerText {
+        max-width: 95%;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .bannerText {
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bannerText p {
+        font-size: .9rem;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bannerText h1 {
+        font-size: 1.7rem;
+        color: #ffffff;
+        padding-bottom: 20px;
+        line-height: 45px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .bannerText .learnBtn {
+        font-size: 18px;
+        padding: 10px 20px;
+        display: inline-block;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 1200px) {
+    #particles-js {
+        height: 600px;
+    }
+}
+
+@media (max-width: 286px) {
+    #particles-js {
+        height: 700px;
+    }
+}
+
+@media (max-height: 601px) {
+    .activeCardToggle {
+        position: static !important;
+    }
+    .toggleParticle {
+        overflow: scroll;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #aboutUs .container {
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #aboutUs .container {
+        height: 700px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .aboutCard {
+        top: -10%;
+    }
+}
+
+@media (min-width: 450px) and (max-width:513px) {
+    #ourService {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .footerForm form {
+        position: relative;
+        top: -122px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .footerForm form {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .footerForm form {
+        margin: auto;
+        margin-top: 50px;
+    }
+    .mapLocation {
+        width: 450px;
+    }
+}
+
+@media (min-width: 991px) and (max-width: 1199px) {
+    .mapLocation {
+        width: 450px;
+    }
+    .mapLocation {
+        text-align: center;
+    }
+}
+
+@media (max-width: 1199px) {
+    .locationText {
+        width: 300px;
+    }
+    .fa-map-marker-alt {
+        top: -31px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .footerContact {
+        text-align: center;
+    }
+    .footerForm form {
+        margin: auto;
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-height: 600px) {
+    #particles-js {
+        height: 100%;
+        overflow-wrap: break-word;
+    }
+}
+
+@media (max-width: 510px) {
+    .mapLocation {
+        width: 350px;
+    }
+    .footerForm form {
+        width: 350px;
+    }
+    .footerForm input {
+        width: 320px;
+    }
+    .footerForm textarea {
+        width: 320px;
+    }
+    .footerForm *:focus {
+        outline: none !important;
+    }
+}
+
+@media (min-width:577px) and (max-width:767px) {
+    .mapLocation {
+        width: 500px;
+        text-align: center;
+    }
+}
