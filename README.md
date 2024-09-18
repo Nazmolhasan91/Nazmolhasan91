@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hossen</h1>
-<h3 align="center">A passionate IT Execute from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVuejc5azNxeGt2MHIyemJ5bHhxaHliampjdmIzanZubzZoZmxydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmolhasan91&label=Profile%20views&color=0e75b6&style=flat" alt="nazmolhasan91" /> </p>
