@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmolhasan91&label=Profile%20views&color=0e75b6&style=flat" alt="nazmolhasan91" /> </p>
 
-- 🌱 I’m currently learning **Hardware Maintenance and Troubleshooting**
 
 - 📫 How to reach me **nazmolhasan91@gmail.com**
 
